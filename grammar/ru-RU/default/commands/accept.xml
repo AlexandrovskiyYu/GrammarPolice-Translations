@@ -3,10 +3,9 @@
     <Name>accept</Name>
     <Action>accept</Action>
     <Phrases>
+        <string>принято, выезжаю</string>
+        <string>проверяю</string>
         <string>в пути</string>
-        <string>принято</string>
-        <string>отвечаю</string>
-        <string>проверю</string>
-        <string>отвечу</string>
+        <string>принял вызов</string>
     </Phrases>
 </Command>
