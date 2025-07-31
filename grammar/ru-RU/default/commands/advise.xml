@@ -3,7 +3,6 @@
     <Name>advise</Name>
     <Action>advise</Action>
     <Phrases>
-        <string>имейте в виду</string>
-        <string>имейте ввиду</string>
+        <string>довожу до сведения</string>
     </Phrases>
 </Command>
