@@ -3,8 +3,7 @@
     <Name>cancel_checks</Name>
     <Action>cancel_checks</Action>
     <Phrases>
-        <string>отмените проверки</string>
-        <string>я в порядке отмените проверки</string>
-        <string>мы в порядке отмените проверки</string>
+        <string>Отменить</string>
+        <string>Ситуация в норме</string>
     </Phrases>
 </Command>
